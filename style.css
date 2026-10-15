@@ -1,0 +1,31 @@
+header {
+    display: flex;
+    justify-content:flex-start ;
+    align-items: center;
+    background-color:#1C130E ;
+    height: 100px;
+    width: 100%;
+    
+}
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+    background-color: #1C130E;
+    width: 100%;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 10px;
+}
+article {
+    background-color: rgb(254, 177, 209);
+    height: 100%;
+}
+footer {
+    display: flex;
+    
+    background-color: #825ad9;
+}
